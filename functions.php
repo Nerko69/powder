@@ -14,12 +14,9 @@ if ( ! function_exists( 'powder_setup' ) ) {
 	 * Sets up theme defaults and registers support for various WordPress features.
 	 *
 	 * Note that this function is hooked into the after_setup_theme hook, which
-	 * runs before the init hook. The init hook is too late for some features, such
-	 * as indicating support for post thumbnails.
+	 * runs before the init hook.
 	 *
 	 * @since 0.5.0
-	 *
-	 * @return void
 	 */
 	function powder_setup() {
 
@@ -40,7 +37,7 @@ if ( ! function_exists( 'powder_setup' ) ) {
 add_action( 'after_setup_theme', 'powder_setup' );
 
 /**
- * Enqueues theme style sheet.
+ * Enqueue theme style sheet.
  *
  * @since 0.5.0
  */
