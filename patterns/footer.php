@@ -18,7 +18,7 @@
 <!-- wp:paragraph -->
 <p>© <?php echo esc_html( gmdate( 'Y' ) ); ?></p>
 <!-- /wp:paragraph -->
-<!-- wp:site-title {"isLink":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"300"},"spacing":{"margin":{"bottom":"0px"}}},"fontSize":"x-small"} /-->
+<!-- wp:site-title {"isLink":false,"style":{"typography":{"fontWeight":"300"}},"fontSize":"x-small"} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:paragraph -->
