@@ -1,15 +1,19 @@
 === Powder ===
 Contributors: bgardner
-Requires at least: 6.0
-Tested up to: 6.0
+Requires at least: 6.1
+Tested up to: 6.1
 Requires PHP: 5.6
-Stable tag: 0.5.1
+Stable tag: 0.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
 Simple by design, Powder is a base WordPress block theme created for Full Site Editing. Build something for yourself, pair it with a child theme, or launch your client project with it. Whatever you choose to use it for, I hope that you enjoy it. NOTE: This theme is best served with the Gutenberg plugin active.
+
+= 0.5.2 =
+
+Bump version, add back layout code.
 
 = 0.5.1 =
 

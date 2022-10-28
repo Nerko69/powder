@@ -65,7 +65,7 @@ function powder_register_block_styles() {
 			'shadow'       => __( 'Shadow', 'powder' ),
 			'shadow-solid' => __( 'Shadow Solid', 'powder' ),
 		),
-		'core/list'  => array(
+		'core/list' => array(
 			'no-disc' => __( 'No Disc', 'powder' ),
 		),
 		'core/navigation-link' => array(
