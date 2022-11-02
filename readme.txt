@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Simple by design, Powder is a base WordPress block theme created for Full Site Editing. Build something for yourself, pair it with a child theme, or launch your client project with it. Whatever you choose to use it for, I hope that you enjoy it. NOTE: This theme is best served with the Gutenberg plugin active.
+Simple by design, Powder is a base WordPress block theme created for Full Site Editing. Build something for yourself, pair it with a child theme, or launch your client project with it. Whatever you choose to use it for, I hope that you enjoy it.
 
 = 0.5.2 =
 
