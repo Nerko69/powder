@@ -231,13 +231,6 @@ ul li:where(.wp-block-list) {
 	margin-bottom: 60px;
 }
 
-/* Post Author
---------------------------------------------- */
-
-.wp-block-post-author__name {
-	margin-bottom: 0;
-}
-
 /* Preformatted
 --------------------------------------------- */
 
