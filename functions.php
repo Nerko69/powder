@@ -84,5 +84,6 @@ function powder_register_block_styles() {
 			);
 		}
 	}
+
 }
 add_action( 'init', 'powder_register_block_styles' );
